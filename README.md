@@ -1,8 +1,14 @@
+<style>
+.blue-heading {
+  color: blue;
+}
+</style>
+
 # DSA with Ajmain-Fayek
 
 ## Problems
 
-### <span style:"color: blue"> Problem set - 1: String Compression</span>
+### Problem set - 1: String Compression
 
 Write a function that takes a string and returns a **_compressed_** version. If a character repeats, replace the repetition with the count of characters.
 
