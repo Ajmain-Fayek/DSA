@@ -2,7 +2,7 @@
 
 ## Problems
 
-### Problem set - 1: <a href="./_1_stringCompression.js" target="_blank">String Compression</a>
+### Problem set - 1: <a href="./_1_stringCompression.js">String Compression</a>
 
 Write a function that takes a string and returns a **_compressed_** version. If a character repeats, replace the repetition with the count of characters.
 
@@ -12,7 +12,7 @@ Write a function that takes a string and returns a **_compressed_** version. If 
 
 ---
 
-### Problem set - 2: Two Sum Logic
+### Problem set - 2: <a href="./_2_twoSumLogic.js"> Two Sum Logic </a>
 
 Given an array of integers and a target number, return the indices of the two numbers that add up to that target.
 
@@ -23,7 +23,7 @@ Given an array of integers and a target number, return the indices of the two nu
 
 ---
 
-### Problem set - 3: Palindrome & Cleanliness
+### Problem set - 3: <a href="./_1_stringCompression.js"> Palindrome & Cleanliness </a>
 
 Check if a string is a palindrome (reads the same backward as forward), but you must ignore spaces, punctuation, and capitalization.
 
@@ -33,7 +33,7 @@ Check if a string is a palindrome (reads the same backward as forward), but you 
 
 ---
 
-### Problem set - 0: xyz
+### Problem set - 0: <a href="./"></a>
 
 **Input:** </br>
 **Output:** </br>
