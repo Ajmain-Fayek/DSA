@@ -1,0 +1,27 @@
+/**
+ * Input: aaabbcbba
+ * output: a3b2c1b2a1
+ */
+
+const string = "aaabbcbba";
+const stringArray = string.split("");
+
+const compressedArray = [];
+
+for (let index = 0; index < stringArray.length; index++) {
+  const element = stringArray[index];
+  let elementCount = 1;
+
+  for (let idx = index + 1; idx < stringArray.length; idx++) {
+    if (element !== stringArray[idx]) {
+      index = idx - 1;
+      break;
+    }
+
+    elementCount++;
+  }
+
+  compressedArray.push(element + elementCount);
+}
+
+console.log(compressedArray.join(""));
