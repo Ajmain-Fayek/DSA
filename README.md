@@ -1,20 +1,8 @@
-<style>
-.blue-heading {
-  color: blue;
-}
-.red-heading {
-  color: red;
-}
-.green-heading {
-  color: green;
-}
-</style>
-
-# DSA with Ajmain-Fayek {.green-heading}
+# <span style = "color: green"> DSA with Ajmain-Fayek </span>
 
 ## Problems
 
-### Problem set - 1: String Compression {.blue-heading}
+### <span style = "color: blue"> Problem set - 1: String Compression </span>
 
 Write a function that takes a string and returns a **_compressed_** version. If a character repeats, replace the repetition with the count of characters.
 
@@ -24,7 +12,7 @@ Write a function that takes a string and returns a **_compressed_** version. If 
 
 ---
 
-### Problem set - 2: Two Sum Logic {.blue-heading}
+### <span style = "color: blue"> Problem set - 2: Two Sum Logic </span>
 
 Given an array of integers and a target number, return the indices of the two numbers that add up to that target.
 
@@ -35,7 +23,7 @@ Given an array of integers and a target number, return the indices of the two nu
 
 ---
 
-### Problem set - 3: Palindrome & Cleanliness {.blue-heading}
+### <span style = "color: blue"> Problem set - 3: Palindrome & Cleanliness </span>
 
 Check if a string is a palindrome (reads the same backward as forward), but you must ignore spaces, punctuation, and capitalization.
 
@@ -45,7 +33,7 @@ Check if a string is a palindrome (reads the same backward as forward), but you 
 
 ---
 
-### Problem set - 0: xyz {.blue-heading}
+### <span style = "color: blue"> Problem set - 0: xyz </span>
 
 **Input:** </br>
 **Output:** </br>
