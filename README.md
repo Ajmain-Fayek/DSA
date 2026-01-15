@@ -2,7 +2,7 @@
 
 ## Problems
 
-### Problem set - 1: <a href="./_1_stringCompression.js">String Compression</a>
+### Problem set - 1: <a href="./_1_stringCompression.js" target="_blank">String Compression</a>
 
 Write a function that takes a string and returns a **_compressed_** version. If a character repeats, replace the repetition with the count of characters.
 
