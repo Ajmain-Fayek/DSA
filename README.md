@@ -2,7 +2,7 @@
 
 ## Problems
 
-### <p color:"blue"> Problem set - 1: String Compression</p>
+### <span style:"color: blue"> Problem set - 1: String Compression</span>
 
 Write a function that takes a string and returns a **_compressed_** version. If a character repeats, replace the repetition with the count of characters.
 
