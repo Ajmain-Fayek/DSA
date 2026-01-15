@@ -1,8 +1,8 @@
-<h1 style = "color: green"> DSA with Ajmain-Fayek </h1>
+<h1 style = "color: #00cf00ff"> DSA with Ajmain-Fayek </h1>
 
 <h2>Problems</h2>
 
-<h3 style = "color: blue"> Problem set - 1: String Compression </h3>
+<h3 style = "color: #0c00ecff"> Problem set - 1: String Compression </h3>
 
 Write a function that takes a string and returns a **_compressed_** version. If a character repeats, replace the repetition with the count of characters.
 
@@ -12,7 +12,7 @@ Write a function that takes a string and returns a **_compressed_** version. If 
 
 ---
 
-<h3 style = "color: blue"> Problem set - 2: Two Sum Logic </h3>
+<h3 style = "color: #0c00ecff"> Problem set - 2: Two Sum Logic </h3>
 
 Given an array of integers and a target number, return the indices of the two numbers that add up to that target.
 
@@ -23,7 +23,7 @@ Given an array of integers and a target number, return the indices of the two nu
 
 ---
 
-<h3 style = "color: blue"> Problem set - 3: Palindrome & Cleanliness </h3>
+<h3 style = "color: #0c00ecff"> Problem set - 3: Palindrome & Cleanliness </h3>
 
 Check if a string is a palindrome (reads the same backward as forward), but you must ignore spaces, punctuation, and capitalization.
 
@@ -33,7 +33,7 @@ Check if a string is a palindrome (reads the same backward as forward), but you 
 
 ---
 
-<h3 style = "color: blue"> Problem set - 0: xyz </h3>
+<h3 style = "color: #0c00ecff"> Problem set - 0: xyz </h3>
 
 **Input:** </br>
 **Output:** </br>
