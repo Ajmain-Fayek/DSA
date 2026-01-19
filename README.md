@@ -33,8 +33,18 @@ Check if a string is a palindrome (reads the same backward as forward), but you 
 
 ---
 
-### Problem set - 0: <a href="./"></a>
+### Problem set - 4: <a href="./_4_reverseAString.js">Reverse a string</a>
 
-**Input:** </br>
-**Output:** </br>
+Write a function that takes string as argument and returns the string in reverse order.
+
+**Input:** `hello`</br>
+**Output:** `olleh`</br>
+**Goal:** To practice reversing strings in JavaScript using built-in string and array methods.
+
+---
+
+### Problem set - 4: <a href="./">Reverse String</a>
+
+**Input:** `hello`</br>
+**Output:** `olleh`</br>
 **Goal:**

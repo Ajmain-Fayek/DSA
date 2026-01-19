@@ -1,4 +1,6 @@
 /**
+ * Given an array of integers and a target number, return the indices of the two numbers that add up to that target.
+ * 
  * Array: [2, 7, 11, 18]
  * Target: 9
  * Output: [0, 1] - Because ( 2 + 7 = 9 )
