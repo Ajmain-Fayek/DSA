@@ -23,7 +23,7 @@ Given an array of integers and a target number, return the indices of the two nu
 
 ---
 
-### Problem set - 3: <a href="./_1_stringCompression.js"> Palindrome & Cleanliness </a>
+### Problem set - 3: <a href="./_3_palindromeCleanliness.js"> Palindrome & Cleanliness </a>
 
 Check if a string is a palindrome (reads the same backward as forward), but you must ignore spaces, punctuation, and capitalization.
 
@@ -40,6 +40,16 @@ Write a function that takes string as argument and returns the string in reverse
 **Input:** `hello`</br>
 **Output:** `olleh`</br>
 **Goal:** To practice reversing strings in JavaScript using built-in string and array methods.
+
+---
+
+### Problem set - 5: <a href="./_5_findElements.js">Find Elements</a>
+
+You have arrays `A = [1, 2, 3]` and `B = [2, 3, 4]`. Without using built-in methods, explain how you'd find elements in A but not in B.
+
+**Input:** `A = [1, 2, 3]`, `B = [2, 3, 4]` </br>
+**Output:** `[1]`</br>
+**Goal:** To practice comparing two arrays in JavaScript and identifying unique elements using loops and conditional logic without relying on built-in methods.
 
 ---
 

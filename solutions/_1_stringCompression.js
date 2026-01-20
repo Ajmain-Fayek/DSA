@@ -36,7 +36,7 @@ const stringCompressor = (s) => {
     return compressedStringArray.join("");
   }
 
-  return "[error] invalide argument type!";
+  throw "[error] invalide argument type!";
 };
 
 console.log(stringCompressor("aaabbcbba"));
