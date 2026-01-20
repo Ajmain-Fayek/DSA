@@ -2,7 +2,7 @@
 
 ## Problems
 
-### Problem set - 1: <a href="./_1_stringCompression.js">String Compression</a>
+### Problem set - 1: <a href="./solutions/_1_stringCompression.js">String Compression</a>
 
 Write a function that takes a string and returns a **_compressed_** version. If a character repeats, replace the repetition with the count of characters.
 
@@ -12,7 +12,7 @@ Write a function that takes a string and returns a **_compressed_** version. If 
 
 ---
 
-### Problem set - 2: <a href="./_2_twoSumLogic.js"> Two Sum Logic </a>
+### Problem set - 2: <a href="./solutions/_2_twoSumLogic.js"> Two Sum Logic </a>
 
 Given an array of integers and a target number, return the indices of the two numbers that add up to that target.
 
@@ -23,7 +23,7 @@ Given an array of integers and a target number, return the indices of the two nu
 
 ---
 
-### Problem set - 3: <a href="./_3_palindromeCleanliness.js"> Palindrome & Cleanliness </a>
+### Problem set - 3: <a href="./solutions/_3_palindromeCleanliness.js"> Palindrome & Cleanliness </a>
 
 Check if a string is a palindrome (reads the same backward as forward), but you must ignore spaces, punctuation, and capitalization.
 
@@ -33,7 +33,7 @@ Check if a string is a palindrome (reads the same backward as forward), but you 
 
 ---
 
-### Problem set - 4: <a href="./_4_reverseAString.js">Reverse a string</a>
+### Problem set - 4: <a href="./solutions/_4_reverseAString.js">Reverse a string</a>
 
 Write a function that takes string as argument and returns the string in reverse order.
 
@@ -43,7 +43,7 @@ Write a function that takes string as argument and returns the string in reverse
 
 ---
 
-### Problem set - 5: <a href="./_5_findElements.js">Find Elements</a>
+### Problem set - 5: <a href="./solutions/_5_findElements.js">Find Elements</a>
 
 You have arrays `A = [1, 2, 3]` and `B = [2, 3, 4]`. Without using built-in methods, explain how you'd find elements in A but not in B.
 
@@ -53,8 +53,8 @@ You have arrays `A = [1, 2, 3]` and `B = [2, 3, 4]`. Without using built-in meth
 
 ---
 
-### Problem set - 4: <a href="./">Reverse String</a>
+### Problem set - 00: <a href="./solutions/">Template</a>
 
-**Input:** `hello`</br>
-**Output:** `olleh`</br>
+**Input:** </br>
+**Output:** </br>
 **Goal:**
